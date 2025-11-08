@@ -24,7 +24,6 @@ This section contains organized **study materials, lab manuals, notes, and previ
 - [OMICS Technology (BT364IA)](./6th-sem/OMICS_Technology)
 - [Professional Core Elective – III (BT365TDX)](./6th-sem/Core_Elective_III)
 - [Institutional Elective – I (XX266TEX)](./6th-sem/Institutional_Elective_I)
-- [Interdisciplinary Project (BT367P)](./6th-sem/Interdisciplinary_Project)
 
 ---
 

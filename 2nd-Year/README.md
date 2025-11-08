@@ -8,18 +8,18 @@ This section contains organised study materials, lab manuals, and past question 
 
 
 ## 📗 3rd Semester
-- [Cell and Molecular Biology (BT233AI)](./Semester-3/Cell_and_Molecular_Biology)
-- [Unit Operations (BT234AI)](./Semester-3/Unit_Operations)
-- [Thermodynamics and Bioanalytical Techniques (BT235AI)](./Semester-3/Thermo_and_Bioanalytical)
-- [Mathematics (MAT231TB)](./Semester-3/Mathematics)
+- [Cell and Molecular Biology (BT233AI)](./3rd-sem/Cell_and_Molecular_Biology)
+- [Unit Operations (BT234AI)](./3rd-sem/Unit_Operations)
+- [Thermodynamics and Bioanalytical Techniques (BT235AI)](./3rd-sem/Thermo_and_Bioanalytical)
+- [Mathematics (MAT231TB)](./3rd-sem/Mathematics)
 
 ---
 
 ## 📗 4th Semester
-- [Biostatistics (BT241AT)](./Semester-4/Biostatistics)
-- [Programming for Computational Biology (BT343AI)](./Semester-4/Comp_bio)
-- [Biochemistry (BT243AI)](./Semester-4/Biochemistry)
-- [Bioprocess Calculations(BT345AT)](./Semester-4/Bioprocess_calc)
+- [Biostatistics (BT241AT)](./4th-sem/Biostatistics)
+- [Programming for Computational Biology (BT343AI)](./4th-sem/Comp_bio)
+- [Biochemistry (BT243AI)](./4th-sem/Biochemistry)
+- [Bioprocess Calculations(BT345AT)](./4th-sem/Bioprocess_calc)
 -----
 
 

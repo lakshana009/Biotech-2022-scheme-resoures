@@ -1,4 +1,4 @@
-## 1st-Year Resources
+## 1st-Year Resources📜
 [1st Year Resources](https://github.com/aditya-bhandari-cd23/FIRST-YEARS-ARCHIVE)
 
 ## Acknowledgement ✨

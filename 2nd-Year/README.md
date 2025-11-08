@@ -24,7 +24,7 @@ This section contains organised study materials, lab manuals, and past question 
 
 
 ## 🧩 Basket Course (Common for Both Semesters)
-- [Environment & Sustainability](./Basket-ourse/Envi_sci)
+- [Environment & Sustainability](./Basket-course/Envi_sci)
 - [Material Science for Engineers](./Basket-course/Mat_sci)
 - [Bio safety standards and Ethics](./Basket-course/Bio)
 
